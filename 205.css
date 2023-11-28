@@ -1,0 +1,20 @@
+.header{
+background-color: rgb(30, 55, 200);
+padding-bottom: 30px;
+text-align: center;
+display: flex;
+margin-top: 0px;
+align-items: center;
+}
+
+.list{
+  display: inline;
+  text-align: center;
+}
+button:hover{
+  opacity: 0.5;
+  cursor: pointer
+}
+body{
+  background-image:  url('C:\Users\pc\Desktop\11065443_DCIT205\g7work.jpg');
+}
